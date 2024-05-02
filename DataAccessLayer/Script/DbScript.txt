@@ -1,0 +1,1 @@
+﻿scaffold-DbContext "Data Source=.;Initial Catalog=DataHead;Trusted_Connection=True;Connect Timeout=30;Encrypt=False;TrustServerCertificate=False;ApplicationIntent=ReadWrite;" Microsoft.EntityFrameworkCore.SqlServer -Project "DataAccessLayer" -OutputDir "Models" -ContextDir "Data" -Context "MemorandumDbContext" -f
